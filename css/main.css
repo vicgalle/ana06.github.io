@@ -40,9 +40,6 @@ hr {
   border-color: #00CDB7;
   margin-top: 15px;
   margin-bottom: 40px; }
-
-img {
-  width: 100%; }
   
 .container a {
   font-weight: 600 }
@@ -179,6 +176,7 @@ a {
   margin-top: 25px; }
 
 .ana-img {
+  width: 100%;
   padding: 10px 10px 25px 10px; }
 
 .ana-description {

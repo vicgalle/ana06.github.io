@@ -7,6 +7,9 @@ title: Ana María Martínez Gómez
 # Build settings
 markdown: kramdown
 
+plugins:
+  - jemoji
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
