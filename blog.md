@@ -39,4 +39,6 @@ permalink: /blog/
 
 {% endfor %}
 
+{% include license.html %}
+
 {% endif %}

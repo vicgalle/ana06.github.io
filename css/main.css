@@ -42,7 +42,11 @@ hr {
   margin-bottom: 40px; }
   
 .container a {
-  font-weight: 600 }
+  font-weight: 600; }
+
+.license a {
+  font-weight: normal;
+}
 
 .text-center {
   text-align: center !important; }
