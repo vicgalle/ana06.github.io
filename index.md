@@ -12,7 +12,7 @@ layout: default
   <div class="col-lg-9 col-md-8 col-sm-8 col-xs-12">
     <div class="ana-description">
       <p>
-        My name is Ana, I am a Computer Science Engineer and a Mathematician and I am currently working as a Software Engineer at SUSE.
+        My name is Ana and I am from Madrid, Spain. I am a Computer Science Engineer and a Mathematician and I am currently working as a Software Engineer at SUSE in Nuremberg, Germany.
       </p>
       
       <p>
