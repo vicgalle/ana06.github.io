@@ -78,8 +78,6 @@ a {
 }
 
 .btn-primary {
-  letter-spacing: 0.0125rem;
-  padding: 7px 15px 7px 15px;
   background-color: #18BC9C !important;
   border-color: #18BC9C !important; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -87,8 +85,6 @@ a {
     border-color: #128f76 !important; }
 
 .btn-secondary {
-  letter-spacing: 0.0125rem;
-  padding: 7px 15px 7px 15px;
   background-color: #2C3E50;
   border-color: #2C3E50; }
   .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
@@ -206,7 +202,12 @@ a {
   margin-bottom: 30px; }
   
 .post-content {
-  margin-bottom: 40px; }
+  margin-bottom: 20px; }
 
 .post-content > .card-body {
   padding-bottom: 5px; }
+
+.badge-twitter {
+  padding: 9px 10px 8px 10px;
+  margin-bottom: 20px;
+}
