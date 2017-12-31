@@ -203,8 +203,10 @@ a {
   color: #848484; }
 
 .post-info{
-  margin-bottom: 40px; }
+  margin-bottom: 30px; }
   
-.hr-comment{
-  margin-top: 50px;
+.post-content {
   margin-bottom: 40px; }
+
+.post-content > .card-body {
+  padding-bottom: 5px; }
