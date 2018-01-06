@@ -1,0 +1,21 @@
+<div class="card border-secondary post-card">
+  <h5 class="card-header text-white bg-secondary border-secondary">Languages</h5>
+  <div class="card-body">
+    {% for language in page.languages %}
+    <div class="row">
+      <div class="col-12 col-md-2 col-lg-2 .col-xl-1">
+        <h6 class="resume">
+          {{ language.name }}
+        </h6>
+      </div>
+      <div class="col-12 col-md-10 col-lg-10 .col-xl-11">
+        <strong>{{ language.certificate }}</strong>
+      </div>
+    </div>
+
+    {% if language != page.languages.last %}
+    <hr>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>

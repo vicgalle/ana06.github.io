@@ -132,6 +132,14 @@ my_projects:
 
   - name: "Function graphing with VHDL over a FPGA"
     project-url: "Ana06/function-graphing-FPGA"
+
+languages:
+  - name: Spanish
+    certificate: Native speaker
+  - name: English
+    certificate: C2 - Certificate of Proficiency in English (CPE) by Cambridge University in June 2016
+  - name: German
+    certificate: B1 - Deutsch-Test für Zuwanderer by telc and BAMF in October 2017
 ---
 
 <h1 class="text-center title">{{ page.title | escape }}</h1>
@@ -143,4 +151,6 @@ my_projects:
 {% include resume/honors.html %}
 
 {% include resume/contributions.html %}
+
+{% include resume/languages.html %}
 
