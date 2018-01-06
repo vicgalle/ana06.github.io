@@ -158,6 +158,22 @@ a {
 
 /* Footer */
 
+.btn-social {
+  width: 2.8rem;
+  height: 2.75rem;
+  line-height: 2.7rem;
+  font-size: 0.85rem;
+  padding: 0px !important;
+  font-weight: normal !important; }
+
+.btn-social-github {
+  font-size: 1rem;
+  line-height: 2.6rem; }
+  
+.btn-social-stack-overflow {
+  font-size: 0.95rem;
+  line-height: 2.4rem; }
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -166,9 +182,8 @@ a {
   .footer > .container {
     padding: 15px; }
 
-.btn {
+.footer .btn {
   border-width: 2px; }
-
 
 /* About me */
 
