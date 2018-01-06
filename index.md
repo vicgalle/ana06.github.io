@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2 class="text-center title">{{ site.title | escape }}</h2>
-<hr>
+<hr class="title">
 <div class="row">
   <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
     <img src="/img/AnaMariaMartinez.JPG" alt="Ana Maria Martinez" class="ana-img">

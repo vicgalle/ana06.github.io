@@ -5,7 +5,7 @@ permalink: /blog/
 ---
 
 <h1 class="text-center title">{{ page.title | escape }}</h1>
-<hr>
+<hr class="title">
 
 {% if site.posts.size == 0 %}
 

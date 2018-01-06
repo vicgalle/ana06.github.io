@@ -1,0 +1,24 @@
+<div class="card border-secondary post-card">
+  <h5 class="card-header text-white bg-secondary border-secondary">Honors & Awards</h5>
+  <div class="card-body">
+    {% for honor in page.honors %}
+    <div class="row">
+      <div class="col-12 col-md-2 col-lg-2 .col-xl-1">
+        <p>
+          <strong>{{ honor.date }}</strong>
+        </p>
+      </div>
+      <div class="col-12 col-md-8 col-lg-10 .col-xl-11">
+        <h6 class="resume">
+          {{ honor.title }}
+        </h6>
+        <p class="card-text">{{ honor.company}}</p>
+      </div>
+    </div>
+
+    {% if honor != page.honors.last %}
+    <hr>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>
