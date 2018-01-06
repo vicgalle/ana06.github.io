@@ -133,6 +133,35 @@ my_projects:
   - name: "Function graphing with VHDL over a FPGA"
     project-url: "Ana06/function-graphing-FPGA"
 
+
+talks:
+  - name: Getting started as an open source contributor 
+    conference: openSUSE.Asia Summit 2017 (Tokyo, Japan)
+    url: https://events.opensuse.org/conference/summitasia17/program/proposal/1586
+    featured: true
+
+  - name: Property testing in Ruby (Lightning Talk)
+    conference: Euruko 2017 (Budapest, Hungary)
+    url: https://www.youtube.com/watch?v=0bDRKUqIu24&t=18m33s
+    featured: true
+
+  - name: OBS in numbers
+    conference: openSUSE Conference 2017 (Nurenberg, Germany)
+    url: https://events.opensuse.org/conference/oSC17/program/proposal/1388#2
+    featured: true
+
+  - name: Virus competition (workshop)
+    conference: openSUSE Conference 2017 (Nurenberg, Germany)
+    url: https://events.opensuse.org/conference/oSC17/program/proposal/1388#2
+    
+  - name: First step in a Big Data project & MongoDB
+    conference: Summer University Complutense school (Madrid, Spain)
+    featured: true
+
+  - name: Property and mutant testing
+    conference: Local conferences such as DevOps Camp (Germany)
+
+ 
 languages:
   - name: Spanish
     certificate: Native speaker
@@ -151,6 +180,8 @@ languages:
 {% include resume/honors.html %}
 
 {% include resume/contributions.html %}
+
+{% include resume/talks.html %}
 
 {% include resume/languages.html %}
 

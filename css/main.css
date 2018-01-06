@@ -32,6 +32,11 @@ h5,
 h6 {
   font-weight: 700;
   font-family: 'Montserrat'; }
+  
+h6.resume small{
+  font-size: 1rem;
+  font-weight: 500;
+  font-family: 'Lato'; }
 
 hr.title {
   width: 700px;
@@ -40,7 +45,10 @@ hr.title {
   border-color: #00CDB7;
   margin-top: 15px;
   margin-bottom: 40px; }
-  
+
+.hidden {
+  display: none }
+
 .container a {
   font-weight: 600; }
 

@@ -1,0 +1,36 @@
+<div class="card border-secondary post-card">
+  <h5 class="card-header text-white bg-secondary border-secondary">Given talks</h5>
+  <div class="card-body">
+    {% for talk in page.talks %}
+    <div class="row{% unless talk.featured %} hidden no-featured-talk{% endunless %}">
+      <div class="col-12 col-md-12 col-lg-12 .col-xl-12">
+        <h6 class="resume">
+          {% if talk.url %}
+          <a href="{{ talk.url }}" target="_blank" title="{{ talk.name }}">
+           {{ talk.name }}
+          </a>
+          {% else %}
+          {{ talk.name }}
+          {% endif %}
+          <small>- {{ talk.conference }}</small>
+        </h6>
+
+        <hr>
+      </div>
+    </div>
+    {% endfor %}
+    <a href="#" onclick="more(event, this);" class="float-right">more</a>
+  </div>
+</div>
+
+<script>
+function more(event, elem) {
+    event.preventDefault();
+    $('.no-featured-talk').toggleClass('hidden');
+    $('.hr-no-featured-talk').toggleClass('hidden');
+    if($(elem).text() === 'more')
+        $(elem).text('less');
+    else
+        $(elem).text('more');
+}
+</script>
