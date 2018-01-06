@@ -45,8 +45,7 @@ hr {
   font-weight: 600; }
 
 .license a {
-  font-weight: normal;
-}
+  font-weight: normal; }
 
 .text-center {
   text-align: center !important; }
@@ -205,6 +204,9 @@ a {
 
 .blog-date {
   color: #C9C8C8; }
+
+.license {
+  margin-top: 50px; }
 
 .post-tag {
   margin-left: 5px; }
