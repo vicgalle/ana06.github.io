@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "A failing test for Christmas"
-date:   2018-01-01 22:45:00 +0100
+date:   "2018-01-01 22:45:00 +0100"
 tags: 
   - Ruby
   - Ruby on Rails
+  - PostgreSQL
 description: "It seems I have really well behaved on 2017, because Santa Claus brought me a failing test for Christmas. :stuck_out_tongue_winking_eye: I found out a piece of code, that was only wrong from 26th to 31st December. :christmas_tree:
 
 Image you want to write a Ruby method for a Rails project, where you want to get all the users of the database that have birthday today or in the next 6 days, given that the birth date is stored in the database for all users. How would you do it?"
@@ -99,6 +100,9 @@ end
 ```
 
 As it already happened in `next_birthdays_4`, this method returns the users that have birthday in 29th February if the range includes this date even if it is not a leap year.
+
+
+In PostgreSQL we have the `Date` type and from PostgreSQL 9.2 also `daterange` which we could have use to make this query more efficient. This would have been equivalent to `next_birthdays_3` and would have had the same problem, it fails with leap years.
 
 
 
