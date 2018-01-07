@@ -26,7 +26,7 @@ We have to admit that is not very elegant. But with the new `Hash#dig` we can ju
 params.dig(:user, :address, :street, :number)
 ```
 
-So, as the [Ruby documentation](http://ruby-doc.org/core-2.3.0_preview1/Hash.html#method-i-dig){:target="_blank"} says it retrieves the value object corresponding to the each key objects repeatedly. And similarly for the `Array#dig` method. We would write `array.dig(0, 1, 1)` instead `array[0][1][1]`.
+So, as the [Ruby documentation](http://ruby-doc.org/core-2.3.0_preview1/Hash.html#method-i-dig){:target="_blank"} says it retrieves the value object corresponding to the each key objects repeatedly. And similarly for the `Array#dig` method. We would write `array.dig(0, 1, 1)` instead of `array[0][1][1]`.
 
 
 
@@ -115,9 +115,9 @@ As we have seen, this new methods can be really useful. But why are they then no
 
 The first reason is the one we have already elaborated in, it is not equivalent to what we had before, which implies that things could start failing if we refactor old code.
 
-Another problem can be the lack of the documentation, what we can see illustrated in the following Stack Overflow post: [How do I use `Array#dig` and `Hash#dig` introduced in Ruby 2.3?](https://stackoverflow.com/questions/34346653/how-do-i-use-arraydig-and-hashdig-introduced-in-ruby-2-3){:target="_blank"} :joy: And to be honest even the [release notes](https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released) seem to be confusing to me. What is it meant with _`Array#dig` and `Hash#dig` are also added. Note that this behaves like `try!` of Active Support, which specially handles only nil._?
+Another problem can be the lack of the documentation, what we can see illustrated in the following Stack Overflow post: [How do I use `Array#dig` and `Hash#dig` introduced in Ruby 2.3?](https://stackoverflow.com/questions/34346653/how-do-i-use-arraydig-and-hashdig-introduced-in-ruby-2-3){:target="_blank"} :joy: And to be honest even the [release notes](https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released) seem to be confusing to me. What is it meant with "_`Array#dig` and `Hash#dig` are also added. Note that this behaves like `try!` of Active Support, which specially handles only nil._"?
 
-And another good reason that can causes that this method has been unnoticed, is what I already mentioned at the beginning, that the controversial `&.` has made that almost nobody has noticed this beautiful method. And this just because we as humans tend to put more emphasis on complains.
+And another good reason that can cause that this method has been unnoticed, is what I already mentioned at the beginning, that the controversial `&.` has made that almost nobody has noticed this beautiful method. And this just because we as humans tend to put more emphasis on complains.
 
 
 ### Conclusion
