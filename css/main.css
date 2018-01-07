@@ -241,3 +241,9 @@ h1.title {
 
 h6.resume{
   margin-bottom: 2px; }
+
+.more-contributions{
+  display: block; }
+  @media (min-width: 576px) {
+    .more-contributions{
+      display: inline;}
