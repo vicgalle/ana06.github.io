@@ -3,12 +3,16 @@
 
 # Site settings - Accessible via {{ site.myvariable }}.
 title: Ana María Martínez Gómez
+description: A longer description of what your site is about, e.g., "Where I blog about Jekyll and other awesome things"
+url: "http://anamaria.martinezgomez.name"
+author: Ana María Martínez Gómez
 
 # Build settings
 markdown: kramdown
 
 plugins:
   - jemoji
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
