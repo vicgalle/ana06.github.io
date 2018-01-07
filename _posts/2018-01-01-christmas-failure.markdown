@@ -82,7 +82,7 @@ end
 Note that this method is not equivalent to `next_birthdays_2`, as it returns the users that have birthday in 29th February if the range includes this date even if it is not a leap year. But I would say this is an advantage, as we do not want that the people who were born on 29th February do not have birthday party some years. :wink:
 
 
-But remember that this is a Rails project, so we can do it even better if we reuse this idea to build an SQL query! :tada: For example, for [PostgreSQL](https://www.postgresql.org) 9.4:
+But remember that this is a Rails project, so we can do it even better if we reuse this idea to build an SQL query! :tada: For example, for [PostgreSQL](https://www.postgresql.org){:target="_blank"} 9.4:
 
 ``` ruby
 def next_birthdays_5(number_days)
@@ -106,7 +106,7 @@ As it already happened in `next_birthdays_4`, this method returns the users that
 
 And now it is time to try it! Let check how efficient are the methods number 2, 4 and 5 (as the the other two doesn't work properly as we had already analysed).
 
-I have created 30000 users with different birth dates using [Faker](https://github.com/stympy/faker). I have executed the different methods to know the number of people with birthday in the next 31 days and I have measured the execution time using `Benchmark.measured`. Those are elapsed real times for every of the method in my computer:
+I have created 30000 users with different birth dates using [Faker](https://github.com/stympy/faker){:target="_blank"}. I have executed the different methods to know the number of people with birthday in the next 31 days and I have measured the execution time using `Benchmark.measured`. Those are elapsed real times for every of the method in my computer:
 
 - `next_birthdays_2(30)` ~ **3.3 seconds**
 - `next_birthdays_4(30)` ~ **0.9 seconds**
@@ -123,7 +123,7 @@ Another thing we can learn from the post is that as Rails developers we should n
 
 Last but not least, we may consider if the effort to write a method worths the time you need to invest to write it. For example, in this case we could have considered if we could have lived with a method which returns the birthdays this month, which is much easier to implement, instead of this more complicate option. Or, if we do not expect that out application has a lot of users, we could have even used `next_birthdays_2`.
 
-And if you want to take a look at the original code which inspired this post, you can find it in the following PR: [https://github.com/openSUSE/agile-team-dashboard/pull/100](https://github.com/openSUSE/agile-team-dashboard/pull/100)
+And if you want to take a look at the original code which inspired this post, you can find it in the following PR: [https://github.com/openSUSE/agile-team-dashboard/pull/100](https://github.com/openSUSE/agile-team-dashboard/pull/100){:target="_blank"}
 
 Happy new year! :christmas_tree: :champagne:
 
