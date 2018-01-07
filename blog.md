@@ -28,9 +28,7 @@ permalink: /blog/
       </h6>
     </div>
     <div class="card-body">
-      <p class="card-text">
-        {{ post.description | escape }}
-      </p>
+      {{ post.description | markdownify }}
       <h6 class ="text-center">
         <a href="{{ post.url | relative_url }}" class="no-link">~ Continue reading ~</a>
       </h6>
