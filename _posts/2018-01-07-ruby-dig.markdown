@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why nobody speaks about dig?"
+title:  "Why does nobody speak about dig?"
 date:   "2018-01-07 20:12:16"
 tags: 
   - Ruby
