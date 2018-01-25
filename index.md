@@ -26,8 +26,8 @@ layout: default
       <p>
         As I am a really active person there are many things I usually do. I attend developer and computer science conferences (as a speaker when possible), write viruses in assembly languages and read about technology. I also like travelling, painting, cooking and practising sports. Since I live in Germany, I enjoy learning german too.  
       </p>
-      
-      <p><a href="/resume">See my resume</a></p>
+  
+      <h6 class="see-resume"><a href="/resume">~ See my resume ~</a></h6>
     </div>
   </div>
 </div>
