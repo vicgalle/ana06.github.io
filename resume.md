@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 
 education:
-  - date: Apr 2016 - Aug 2016
+  - date: Sep 2011 - July 2016
     title: "Bachelor's Degree on Computer Science Engineering, GPA: 9.04/10"
     company: Universidad Complutense de Madrid
     location: Madrid, Spain
@@ -14,7 +14,7 @@ education:
       icon: "fas fa-arrow-circle-down"
       url: "/documents/AnaMariaMartinez-CS-set.pdf"
 
-  - date: Apr 2016 - Aug 2016
+  - date: Sep 2011 - July 2016
     title: "Bachelor's Degree on Mathematics, GPA: 8.11/10"
     company: Universidad Complutense de Madrid
     location: Madrid, Spain
@@ -171,7 +171,7 @@ talks:
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
     url: https://events.opensuse.org/conference/oSC17/program/proposal/1388#2
     
-  - name: First step in a Big Data project & MongoDB
+  - name: First steps in a Big Data project & MongoDB
     conference: Summer University Complutense school (Madrid, Spain)
     featured: true
 
