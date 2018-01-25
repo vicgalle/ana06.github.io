@@ -8,6 +8,7 @@ education:
     title: "Bachelor's Degree on Computer Science Engineering, GPA: 9.04/10"
     company: Universidad Complutense de Madrid
     location: Madrid, Spain
+    featured: true
     media:
       name: Record
       icon: "fas fa-arrow-circle-down"
@@ -17,10 +18,16 @@ education:
     title: "Bachelor's Degree on Mathematics, GPA: 8.11/10"
     company: Universidad Complutense de Madrid
     location: Madrid, Spain
+    featured: true
     media:
       name: Record
       icon: "fas fa-arrow-circle-down"
       url: "/documents/AnaMariaMartinez-M-set.pdf"
+
+  - date: Sep 2009 - June 2011
+    title: "Technological Baccalaureate, Graduated with Honors"
+    company: IES Lázaro Cárdenas
+    location: Madrid, Spain
 
 
 jobs:
@@ -28,10 +35,12 @@ jobs:
     title: Software Engineer at the Open Build Service Frontend Team
     company: SUSE
     location: Nürenberg, Germany
+    featured: true
 
   - date: Apr 2016 - Aug 2016
     title: Google Summer of Code (Ruby on Rails developer)
     company: openSUSE
+    featured: true
     media:
       name: Blog
       icon: "fab fa-wordpress"
@@ -41,20 +50,28 @@ jobs:
     title: Fellowship to collaborate in the Computer Architecture Department
     company: Universidad Complutense de Madrid
     location: Madrid, Spain
+    featured: true
 
   - date: June - Aug 2015
     title: Santander SME internship grant (Ruby on Rails developer)
     company: Socialmenta
     location: Madrid, Spain
+    featured: true
 
   - date: Summer 2013, Summer 2014
     title: Leisure time monitor in an English summer camp for children
     company: GADER Formación y Eventos, Utopía XXI
     location: Madrid, Spain
+    featured: true
 
-  - date: 2009 - 2014
-    title: Chess and English teacher
-    company: Collado Villalba Chess Club, Utopía XXI
+  - date: 2013 - 2014
+    title: English teacher
+    company: Utopía XXI
+    location: Madrid, Spain
+
+  - date: 2009 - 2011
+    title: Chess teacher
+    company: Collado Villalba Chess Club
     location: Madrid, Spain
 
 
@@ -174,8 +191,8 @@ languages:
 <h1 class="text-center title">{{ page.title | escape }}</h1>
 <hr class="title">
 
-{% include resume/experience.html title="Education" jobs=page.education %}
-{% include resume/experience.html title="Experience" jobs=page.jobs %}
+{% include resume/experience.html title="Education" jobs=page.education type="experience"%}
+{% include resume/experience.html title="Experience" jobs=page.jobs type="job"%}
 
 {% include resume/honors.html %}
 
@@ -185,3 +202,14 @@ languages:
 
 {% include resume/languages.html %}
 
+<script>
+function more(event, elem) {
+    event.preventDefault();
+    var type = $(elem).data("type");
+    $('.no-featured-' + type).toggleClass('hidden');
+    if($(elem).text() === 'more')
+        $(elem).text('less');
+    else
+        $(elem).text('more');
+}
+</script>

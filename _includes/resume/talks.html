@@ -19,18 +19,6 @@
       </div>
     </div>
     {% endfor %}
-    <a href="#" onclick="more(event, this);" class="float-right">more</a>
+    <a href="#" onclick="more(event, this);" class="float-right" data-type="talk">more</a>
   </div>
 </div>
-
-<script>
-function more(event, elem) {
-    event.preventDefault();
-    $('.no-featured-talk').toggleClass('hidden');
-    $('.hr-no-featured-talk').toggleClass('hidden');
-    if($(elem).text() === 'more')
-        $(elem).text('less');
-    else
-        $(elem).text('more');
-}
-</script>
