@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Why does nobody speak about dig?"
+title:  "Why nobody speaks about dig"
 date:   "2018-01-07 20:12:16"
 tags: 
   - Ruby
   - Ruby on Rails
-description: "It is already 2 years since Ruby 2.3 was released. While the controversial `&.`, which is claimed to allow writing incomprehensible code, has become really popular in blog post and conferences, we have heard very little about the `Hash#dig` and `Array#dig` methods. Those methods were mentioned together in the release notes, as both try to make easier dealing with `nil` values. But why is then the `dig` method not that \"popular\"? Can we after two years say something new about it? And the most important part, should we start using it, if we hadn't use it until now? :thinking:"
+description: "It is already 2 years since Ruby 2.3 was released. While the controversial `&.`, which is claimed to allow writing incomprehensible code, has become really popular in blog post and conferences, we have heard very little about the `Hash#dig` and `Array#dig` methods. Those methods were mentioned together in the release notes, as both try to make easier dealing with `nil` values. But why is then the `dig` method not that \"popular\"? Can we after two years say something new about it? And the most important part, should we start using it, if we haven't use it until now? :thinking:"
 
 ---
 
-It is already 2 years since Ruby 2.3 was released. While the controversial `&.`, which is claimed to allow writing incomprehensible code, has become really popular in blog post and conferences, we have heard very little about the `Hash#dig` and `Array#dig` methods. Those methods were mentioned together in the [release notes](https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released){:target="_blank"}, as both try to make easier dealing with `nil` values. But why is then the `dig` method not that "popular"? Can we after two years say something new about it? And the most important part, should we start using it, if we hadn't use it until now? :thinking:
+It is already 2 years since Ruby 2.3 was released. While the controversial `&.`, which is claimed to allow writing incomprehensible code, has become really popular in blog post and conferences, we have heard very little about the `Hash#dig` and `Array#dig` methods. Those methods were mentioned together in the [release notes](https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released){:target="_blank"}, as both try to make easier dealing with `nil` values. But why is then the `dig` method not that "popular"? Can we after two years say something new about it? And the most important part, should we start using it, if we haven't use it until now? :thinking:
 
 
 ### What is it?

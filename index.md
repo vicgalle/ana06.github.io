@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 class="text-center title">{{ site.title | escape }}</h2>
+<h1 class="text-center title">{{ site.title | escape }}</h1>
 <hr class="title">
 <div class="row">
   <div class="col-lg-3 col-md-4 col-sm-4 col-xs-12">
@@ -16,7 +16,7 @@ layout: default
       </p>
       
       <p>
-        I love open source and I can not avoid taking a look to every code that crosses my path. That is why I maintain several open source projects and contribute to many others as well. Some people say I am addicted to <a href="https://github.com/Ana06" target="_blank">Github</a>! I think learning is the most enriching thing in life, and because of that I help newcomers to open source, for example by participating as a mentor in GSoC.
+        I love open source delopment and I can not avoid taking a look to every code that crosses my path. That is why I maintain several open source projects and contribute to many others as well. Some people say I am addicted to <a href="https://github.com/Ana06" target="_blank">Github</a>! I think learning is the most enriching thing in life, and because of that I help newcomers to open source, for example by participating as a mentor in GSoC.
       </p>
       
       <p>
@@ -24,7 +24,7 @@ layout: default
       </p>
       
       <p>
-        As I am a really imperative person, there are many things I usually do in my free time. I attend developer and computer science conferences (as a speaker when possible), write viruses in assembly languages and read about technology. When I find time and an interessting topic I write in <a href="/blog">my blog</a>. I also like <a href="https://drive.google.com/drive/folders/0B8i2cm-n_KTIdmRyVEVncjhLOFE?usp=sharing" target="_blank">painting</a>, <a href="https://recetariodeana.wordpress.com/" target="_blank">cooking</a>, travelling and practising sports. Since I live in Germany, I enjoy learning german too.  
+        As I am a really hyperactive person, there are many things I usually do in my free time. I attend developer and computer science conferences (as a speaker when possible), write viruses in assembly languages and read about technology. When I find time and an interessting topic I write in <a href="/blog">my blog</a>. I also like <a href="https://drive.google.com/drive/folders/0B8i2cm-n_KTIdmRyVEVncjhLOFE?usp=sharing" target="_blank">painting</a>, <a href="https://recetariodeana.wordpress.com/" target="_blank">cooking</a>, travelling and practising sports. Since I live in Germany, I enjoy learning german too.  
       </p>
   
       <h6 class="see-resume"><a href="/resume">~ See my resume ~</a></h6>
