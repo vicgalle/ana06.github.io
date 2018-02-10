@@ -16,15 +16,15 @@ layout: default
       </p>
       
       <p>
-        I love open source delopment and I can not avoid taking a look to every code that crosses my path. That is why I maintain several open source projects and contribute to many others as well. Some people say I am addicted to <a href="https://github.com/Ana06" target="_blank">Github</a>! I think learning is the most enriching thing in life, and because of that I help newcomers to open source, for example by participating as a mentor in GSoC.
+        I love open source development and I can not avoid taking a look to every code that crosses my path. That is why I maintain several open source projects and contribute to many others as well. Some people say I am addicted to <a href="https://github.com/Ana06" target="_blank">Github</a>! I also help newcomers to open source, for example by participating as a mentor in GSoC.
       </p>
       
       <p>
-        I am passionate about computer science and technology. Lately, I have been mainly working as a software engineer and a web developer, but I also feel attracted by many other fields such as theoretic computer science, algorithms, machine learning, artificial intelligence, big data, database management and computer architecture. I currently write a lot of Ruby code, but I also like many other programming languages such as C, Java, Haskell, Prolog, Python and VHDL, and I am always willing to try new ones.
+        I am passionate about computer science and technology. Lately, I have been mainly working as a software engineer and a web developer, but I also feel attracted by other fields such as theoretic computer science, algorithms, machine learning, big data and computer architecture. I currently write a lot of Ruby code, but I enjoy working with other programming languages as well.
       </p>
       
       <p>
-        As I am a really hyperactive person, there are many things I usually do in my free time. I attend developer and computer science conferences (as a speaker when possible), write viruses in assembly languages and read about technology. When I find time and an interessting topic I write in <a href="/blog">my blog</a>. I also like <a href="https://drive.google.com/drive/folders/0B8i2cm-n_KTIdmRyVEVncjhLOFE?usp=sharing" target="_blank">painting</a>, <a href="https://recetariodeana.wordpress.com/" target="_blank">cooking</a>, travelling and practising sports. Since I live in Germany, I enjoy learning german too.  
+        As I am a really hyperactive person, there are many things I usually do in my free time. I attend developer and computer science conferences, write viruses in assembly languages and read about technology. When I find time and an interessting topic I write in <a href="/blog">my blog</a>. I also like <a href="https://drive.google.com/drive/folders/0B8i2cm-n_KTIdmRyVEVncjhLOFE?usp=sharing" target="_blank">painting</a>, <a href="https://recetariodeana.wordpress.com/" target="_blank">cooking</a>, travelling and practising sports. Since I live in Germany, I have fun learning german too.  
       </p>
   
       <h6 class="see-resume"><a href="/resume">~ See my resume ~</a></h6>
