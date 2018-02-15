@@ -33,6 +33,10 @@ h6 {
   font-weight: 700;
   font-family: 'Montserrat'; }
   
+img{
+  max-width: 100%;
+}
+
 h6.resume small{
   font-size: 1rem;
   font-weight: 500;
@@ -235,7 +239,6 @@ h1.title {
 .badge-twitter {
   padding: 9px 10px 8px 10px;
   margin-bottom: 20px; }
-
 
 /* Resume */
 
