@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Students from indonesia, openSUSE participates in GSoC!"
+title:  "Students from Indonesia, openSUSE participates in GSoC!"
 date:   "2018-02-15 17:31:16"
 tags: 
   - GSoC
   - openSUSE
   - open source
-description: "openSUSE participates again in Google Summer of Code (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. :sunny: With this article I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage indonesian students to get involved in openSUSE development through GSoC."
+description: "openSUSE participates again in Google Summer of Code (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. :sunny: With this article I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage Indonesian students to get involved in openSUSE development through GSoC."
 
 ---
 
-[openSUSE](https://www.opensuse.org) participates again in [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. :sunny: With this article I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage indonesian students to get involved in openSUSE development through GSoC.
+[openSUSE](https://www.opensuse.org) participates again in [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. :sunny: With this article I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage Indonesian students to get involved in openSUSE development through GSoC.
 
 ### Why open source and openSUSE?
 First of all, you may wonder why you should want to get involved in open source development. Everybody has its own reasons, but for me there three main ones:
@@ -41,7 +41,7 @@ You can find all the projects and more information in our mentoring page: **[htt
 
 ### Let’s do it!
 
-When I travelled to [openSUSE Asia](https://events.opensuse.org/conference/summitasia17) in October, I had the chance to speak with some members of the indonesian community and I found out that we have a huge community of openSUSE users in Indonesia. And a big part of this community are university students of Computer Science. However, those students don’t get involved in the development of openSUSE. I also heard many times during the conference that students in Indonesia and in Asia in general are shy and that they find the open source development scary. I hope that with this blog post I can achieve that indonesian students lose their fear and encourage them to get involved in openSUSE development.
+When I travelled to [openSUSE Asia](https://events.opensuse.org/conference/summitasia17) in October, I had the chance to speak with some members of the Indonesian community and I found out that we have a huge community of openSUSE users in Indonesia. And a big part of this community are university students of Computer Science. However, those students don’t get involved in the development of openSUSE. I also heard many times during the conference that students in Indonesia and in Asia in general are shy and that they find the open source development scary. I hope that with this blog post I can achieve that Indonesian students lose their fear and encourage them to get involved in openSUSE development.
 
 The GSoC application period starts on March 12th, but you can already take a look at the organizations and projects and find the best one for you. Approaching the people in the project is also important, as you will be working with them 3 months. We recommend to make at least one contribution to the project you want to apply as that will help you to find out if this is the right project for you and to write a good proposal, but you do not need to send a lot of pull requests.
 
@@ -53,7 +53,7 @@ And if you have doubts do not hesitate to contact us. You can tweet us at [@open
 
 ### About me
 
-My name is [Ana María Martínez](/) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](http://openbuildservice.org) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)) and IRC(@Ana06).
+My name is [Ana María Martínez](/) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](http://openbuildservice.org) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)) and IRC (@Ana06).
 
 
 -----------------------
