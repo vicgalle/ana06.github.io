@@ -240,6 +240,17 @@ h1.title {
   padding: 9px 10px 8px 10px;
   margin-bottom: 20px; }
 
+.image-center{
+  display: block;
+  text-align: center;
+  width: 100%; }
+
+.image-2{
+  margin-bottom: 4px; }
+  @media (min-width: 768px) {
+    .image-3{
+      width: 50%; }}
+
 /* Resume */
 
 h6.resume{

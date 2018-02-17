@@ -20,9 +20,9 @@ First of all, you may wonder why you should want to get involved in open source 
 - **People:** I have the chance to work with really skilled people all around the world, who are interested in the same things as me.
 
 
-<span style="display:block;text-align:center;">
-![GSoC meetup at openSUSE conference 2016]({{ "/img/posts/gsoc-in-indonesia-cookies.jpg" }})
-![GSoC meetup at openSUSE conference 2016]({{ "/img/posts/gsoc-in-indonesia-geeko.jpg" }})
+<span class="image-center">
+<img src="/img/posts/gsoc-in-indonesia-cookies.jpg" class="image-2" />
+<img src="/img/posts/gsoc-in-indonesia-geeko.jpg" class="image-2" />
 </span>
 
 ### Why GSoC?
@@ -48,12 +48,14 @@ The GSoC application period starts on March 12th, but you can already take a loo
 And if you have doubts do not hesitate to contact us. You can tweet us at [@opensusementors](https://twitter.com/@opensusementors), write in our mailing list ([opensuse-project@opensuse.org](mailto:opensuse-project@opensuse.org)) or directly contact the mentors. We are looking forward to hear from you, so don’t be shy! :green_heart:
 
 
-<span style="display:block;text-align:center">![GSoC meetup at openSUSE conference 2016]({{ "/img/posts/gsoc-in-indonesia-meetup.jpg" }})</span>
+<span class="image-center">
+![GSoC meetup at openSUSE conference 2016](/img/posts/gsoc-in-indonesia-meetup.jpg)
+</span>
 
 
 ### About me
 
-My name is [Ana María Martínez](/) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](http://openbuildservice.org) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)) and IRC (@Ana06).
+My name is [Ana María Martínez](/) and I started with openSUSE as a GSoC student. Since then I keep contributing in open source projects inside and outside openSUSE. I am currently working at SUSE in the [Open Build Service](http://openbuildservice.org) Frontend Team and I am a mentor for openSUSE at GSoC. You can find me in Github([@Ana06](https://github.com/Ana06)) and contact me by email (anamma06@gmail.com), Twitter ([@anamma_06](https://twitter.com/anamma_06)), IRC (@Ana06) and by writting a comment in this blog post. :wink:
 
 
 -----------------------
