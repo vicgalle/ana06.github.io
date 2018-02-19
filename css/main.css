@@ -251,6 +251,12 @@ h1.title {
     .image-3{
       width: 50%; }}
 
+.alert-more-info {
+  margin-top: 40px;
+  color: #585858; }
+  .alert-more-info > p {
+    margin-bottom: 0rem !important; }
+
 /* Resume */
 
 h6.resume{

@@ -20,6 +20,10 @@ layout: default
 <div class="post-content">
   <div class="card-body">
     {{ content }}
+    
+    <div class="alert alert-light alert-more-info text-center">
+      {{ page.more-info | markdownify }}
+    </div>
   </div>
 </div>
 
