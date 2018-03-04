@@ -10,7 +10,7 @@ description: "openSUSE participates again in Google Summer of Code (GSoC), a pro
 more-info: "This blog post was translated to Indonesian and published in [opensuse.id](https://opensuse.id/2018/02/15/opensuse-berpartisipasi-di-gsoc-kamu-mahasiswai-ayo-ikutan).
 
 
-I wrote a similar blog post which was published in [news.opensuse.org](https://news.opensuse.org/2018/02/19/gsoc-ana). This version was also translated to Spanish and published in [victorhckinthefreeworld.com](https://victorhckinthefreeworld.com/2018/02/20/opensuse-un-ano-mas-participara-en-gsoc)."
+I wrote a similar blog post which was published in [news.opensuse.org](https://news.opensuse.org/2018/02/19/gsoc-ana). This version was also translated to Japanese and published in [blog.geeko.jp](http://blog.geeko.jp/ftake/1769) and to Spanish and published in [victorhckinthefreeworld.com](https://victorhckinthefreeworld.com/2018/02/20/opensuse-un-ano-mas-participara-en-gsoc)."
 ---
 
 [openSUSE](https://www.opensuse.org) participates again in [Google Summer of Code](https://summerofcode.withgoogle.com) (GSoC), a program that awards stipends to university students who contribute to real-world open source projects during three months in summer. :sunny: With this article, I will provide my experience as a former GSoC student and mentor, give you more details about the program and try to encourage Indonesian students to get involved in openSUSE development through GSoC.
