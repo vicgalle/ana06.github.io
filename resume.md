@@ -173,7 +173,7 @@ talks:
 
   - name: Virus competition (workshop)
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
-    url: https://events.opensuse.org/conference/oSC17/program/proposal/1388#2
+    url: https://events.opensuse.org/conference/oSC17/program/proposal/1326
 
   - name: Property and mutant testing
     conference: Local conferences such as DevOps Camp (Germany)
