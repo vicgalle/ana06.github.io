@@ -100,6 +100,9 @@ projects:
   - name: "Ruby Core"
     prs-url: "ruby/ruby"
 
+  - name: "Jekyll"
+    commits-url: "jekyll/jekyll"
+
   - name: "obs-landing"
     commits-url: "openSUSE/obs-landing"
 
@@ -117,6 +120,15 @@ projects:
 
   - name: "CONSUL"
     commits-url: "consul/consul"
+
+  - name: "mentoring"
+    commits-url: "openSUSE/mentoring"
+
+  - name: "Hackweek"
+    commits-url: "SUSE/hackweek"
+
+  - name: "software-o-o"
+    commits-url: "openSUSE/software-o-o"
 
 
 my_projects:
