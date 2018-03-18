@@ -21,9 +21,11 @@ layout: default
   <div class="card-body">
     {{ content }}
     
+    {% if page.more-info %}
     <div class="alert alert-light alert-more-info text-center">
       {{ page.more-info | markdownify }}
     </div>
+    {% endif %}
   </div>
 </div>
 
