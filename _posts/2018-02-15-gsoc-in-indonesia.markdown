@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Students from Indonesia, openSUSE participates in GSoC!"
-date:   "2018-02-15 17:31:16"
+date:   "2018-02-15"
 tags: 
   - GSoC
   - openSUSE

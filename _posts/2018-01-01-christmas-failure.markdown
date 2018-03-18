@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A failing test for Christmas"
-date:   "2018-01-01 22:45:00 +0100"
+date:   "2018-01-01"
 tags: 
   - Ruby
   - Ruby on Rails

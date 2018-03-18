@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Why nobody speaks about dig"
-date:   "2018-01-07 20:12:16"
+date:   "2018-01-07"
 tags: 
   - Ruby
   - Ruby on Rails
