@@ -164,6 +164,16 @@ my_projects:
 
 
 talks:
+  - name: Property testing
+    conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
+    url: https://rubyunconf.eu
+    featured: true
+
+  - name: Open Source (Lightning Talk)
+    conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
+    url: https://rubyunconf.eu
+    featured: true
+
   - name: Getting started as an open source contributor 
     conference: openSUSE.Asia Summit 2017 (Tokyo, Japan)
     url: https://events.opensuse.org/conference/summitasia17/program/proposal/1586
@@ -178,17 +188,13 @@ talks:
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
     url: https://events.opensuse.org/conference/oSC17/program/proposal/1388#2
     featured: true
-    
-  - name: First steps in a Big Data project & MongoDB
-    conference: Summer University Complutense school 2016 (Madrid, Spain)
-    featured: true
 
   - name: Virus competition (workshop)
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
     url: https://events.opensuse.org/conference/oSC17/program/proposal/1326
 
-  - name: Property and mutant testing
-    conference: Local conferences such as DevOps Camp (Germany)
+  - name: First steps in a Big Data project & MongoDB
+    conference: Summer University Complutense school 2016 (Madrid, Spain)
 
  
 languages:
