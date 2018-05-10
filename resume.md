@@ -169,7 +169,7 @@ talks:
     url: https://rubyunconf.eu
     featured: true
 
-  - name: Open Source (Lightning Talk)
+  - name: Open Source (lightning Talk)
     conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
     url: https://rubyunconf.eu
     featured: true
@@ -179,7 +179,7 @@ talks:
     url: https://events.opensuse.org/conference/summitasia17/program/proposal/1586
     featured: true
 
-  - name: Property testing in Ruby (Lightning Talk)
+  - name: Property testing in Ruby (lightning Talk)
     conference: Euruko 2017 (Budapest, Hungary)
     url: https://www.youtube.com/watch?v=0bDRKUqIu24&t=18m33s
     featured: true
