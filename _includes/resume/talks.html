@@ -1,6 +1,6 @@
 {% assign today = site.time | date: "%Y-%m-%d" %}
-{% assign upcoming_talks = page.talks | where_exp: 'talk', 'talk.date > today' %}
-{% assign given_talks = page.talks | where_exp: 'talk', 'talk.date <= today' %}
+{% assign upcoming_talks = page.talks | where_exp: 'talk', 'talk.date > today' | sort: 'date' %}
+{% assign given_talks = page.talks | where_exp: 'talk', 'talk.date <= today'  | sort: 'date' | reverse %}
 
 <div class="card border-secondary post-card">
   <h5 class="card-header text-white bg-secondary border-secondary">
