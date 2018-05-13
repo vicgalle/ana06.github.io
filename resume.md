@@ -167,34 +167,41 @@ talks:
   - name: Property testing
     conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
     url: https://rubyunconf.eu
+    date: "2018-05-05"
     featured: true
 
   - name: Open Source (lightning Talk)
     conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
     url: https://rubyunconf.eu
+    date: "2018-05-06"
     featured: true
 
   - name: Getting started as an open source contributor 
     conference: openSUSE.Asia Summit 2017 (Tokyo, Japan)
     url: https://events.opensuse.org/conference/summitasia17/program/proposal/1586
+    date: "2017-10-22"
     featured: true
 
   - name: Property testing in Ruby (lightning Talk)
     conference: Euruko 2017 (Budapest, Hungary)
     url: https://www.youtube.com/watch?v=0bDRKUqIu24&t=18m33s
+    date: "2017-09-30"
     featured: true
 
   - name: OBS in numbers
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
     url: https://events.opensuse.org/conference/oSC17/program/proposal/1388#2
+    date: "2017-05-27"
     featured: true
 
   - name: Virus competition (workshop)
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
+    date: "2017-05-27"
     url: https://events.opensuse.org/conference/oSC17/program/proposal/1326
 
   - name: First steps in a Big Data project & MongoDB
     conference: Summer University Complutense school 2016 (Madrid, Spain)
+    date: "2016-07"
 
  
 languages:

@@ -1,24 +1,25 @@
-<div class="card border-secondary post-card">
-  <h5 class="card-header text-white bg-secondary border-secondary">Given talks</h5>
-  <div class="card-body">
-    {% for talk in page.talks %}
-    <div class="row{% unless talk.featured %} hidden no-featured-talk{% endunless %}">
-      <div class="col-12 col-md-12 col-lg-12 .col-xl-12">
-        <h6 class="resume">
-          {% if talk.url %}
-          <a href="{{ talk.url }}" target="_blank" title="{{ talk.name }}">
-           {{ talk.name }}
-          </a>
-          {% else %}
-          {{ talk.name }}
-          {% endif %}
-          <small>- {{ talk.conference }}</small>
-        </h6>
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign upcoming_talks = page.talks | where_exp: 'talk', 'talk.date > today' %}
+{% assign given_talks = page.talks | where_exp: 'talk', 'talk.date <= today' %}
 
-        <hr>
-      </div>
-    </div>
-    {% endfor %}
-    <a href="#" onclick="more(event, this);" class="float-right" data-type="talk">more</a>
+<div class="card border-secondary post-card">
+  <h5 class="card-header text-white bg-secondary border-secondary">
+    {% if upcoming_talks.size > 0 %}
+    Talks
+    {% else %}
+    Given talks
+    {% endif %}
+  </h5>
+  <div class="card-body">
+      {% if upcoming_talks.size > 0 %}
+        <h6 style="text-decoration: underline; margin: 5px 0 20px 0">Upcomming talks</h6>
+
+        {% include resume/talks_section.html talks=upcoming_talks tag='upcomming-talks' %}
+
+        <h6 style="text-decoration: underline; margin: 20px 0 20px 0">Given talks</h6>
+      {% endif %}
+
+    {% include resume/talks_section.html talks=given_talks tag='given-talks'%}
+
   </div>
 </div>
