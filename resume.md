@@ -164,6 +164,18 @@ my_projects:
 
 
 talks:
+  - name: Let’s Refactor Some Ruby Code
+    conference: Brighton Ruby 2018 (Brighton, England)
+    url: https://brightonruby.com/2018/lets-refactor-some-ruby-code-ana-martinez
+    date: "2018-07-06"
+    featured: true
+
+  - name: Keep calm and refactor OBS 
+    conference: openSUSE Conference 2018 (Prague, Czech Republic)
+    url: https://events.opensuse.org/conference/oSC18/program/proposal/1690
+    date: "2018-05-25"
+    featured: true
+
   - name: Property testing
     conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
     url: https://rubyunconf.eu
