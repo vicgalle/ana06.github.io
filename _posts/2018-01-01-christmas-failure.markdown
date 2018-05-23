@@ -2,7 +2,8 @@
 layout: post
 title:  "A failing test for Christmas"
 date:   "2018-01-01"
-tags: 
+tags:
+  - technical
   - Ruby
   - Ruby on Rails
   - PostgreSQL
