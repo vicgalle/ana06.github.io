@@ -210,7 +210,6 @@ talks:
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
     url: https://events.opensuse.org/conference/oSC17/program/proposal/1388#2
     date: "2017-05-27"
-    featured: true
 
   - name: Virus competition (workshop)
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
