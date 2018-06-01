@@ -226,7 +226,7 @@ languages:
   - name: English
     certificate: C2 - Certificate of Proficiency in English (CPE) by Cambridge University in June 2016
   - name: German
-    certificate: B1 - Deutsch-Test für Zuwanderer by telc and BAMF in October 2017
+    certificate: B2 - telc Deutsch B2 in March 2018
 ---
 
 <h1 class="text-center title">{{ page.title | escape }}</h1>
