@@ -184,7 +184,7 @@ talks:
 
   - name: Property testing
     conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
-    url: https://rubyunconf.eu
+    url: https://youtu.be/FSrNXI1SyCg
     date: "2018-05-05"
     featured: true
 
