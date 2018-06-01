@@ -204,7 +204,6 @@ talks:
     conference: Euruko 2017 (Budapest, Hungary)
     url: https://www.youtube.com/watch?v=0bDRKUqIu24&t=18m33s
     date: "2017-09-30"
-    featured: true
 
   - name: OBS in numbers
     conference: openSUSE Conference 2017 (Nurenberg, Germany)
