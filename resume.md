@@ -165,6 +165,11 @@ my_projects:
 
 talks:
   - name: Let’s Refactor Some Ruby Code
+    conference: EuRuKo 2018 (Vienna, Austria)
+    url: https://euruko2018.org/speakers
+    date: "2018-08-24"
+
+  - name: Let’s Refactor Some Ruby Code
     conference: Brighton Ruby 2018 (Brighton, England)
     url: https://brightonruby.com/2018/lets-refactor-some-ruby-code-ana-martinez
     date: "2018-07-06"
