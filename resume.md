@@ -195,7 +195,7 @@ talks:
 
   - name: Open Source (lightning Talk)
     conference: Ruby Unconf Hamburg 2018 (Hamburg, Germany)
-    url: https://rubyunconf.eu
+    url: https://www.youtube.com/watch?v=B-eIchAJBa0
     date: "2018-05-06"
     featured: true
 
