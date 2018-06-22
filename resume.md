@@ -62,7 +62,6 @@ jobs:
     title: Leisure time monitor in an English summer camp for children
     company: GADER Formación y Eventos, Utopía XXI
     location: Madrid, Spain
-    featured: true
 
   - date: 2013 - 2014
     title: English teacher
