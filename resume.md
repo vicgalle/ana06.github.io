@@ -148,7 +148,7 @@ my_projects:
     project-url: "Ana06/C-like-compiler"
 
   - name: "Interactive prototype of a messaging mobile app"
-    url: "http://www.youtube.com/watch?v: iCR0IikbKpw"
+    url: "https://www.youtube.com/watch?v=iCR0IikbKpw"
 
   - name: "Text decoder written in Haskell"
     project-url: "https://github.com/consul/consul/commits?author: Ana06"
