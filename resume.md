@@ -168,6 +168,12 @@ talks:
     conference: EuRuKo 2018 (Vienna, Austria)
     url: https://euruko2018.org/speakers
     date: "2018-08-24"
+    
+  - name: Why should you get involved in open source?
+    conference: openSUSE.Asia Summit 2018 (Taipei, Taiwan)
+    url: https://events.opensuse.org/conference/summitasia18
+    date: "2018-08-11"
+    featured: true
 
   - name: Let’s Refactor Some Ruby Code
     conference: Brighton Ruby 2018 (Brighton, England)
