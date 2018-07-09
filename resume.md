@@ -167,6 +167,7 @@ talks:
     conference: EuRuKo 2018 (Vienna, Austria)
     url: https://euruko2018.org/speakers
     date: "2018-08-24"
+    featured: true
     
   - name: Why should you get involved in open source?
     conference: openSUSE.Asia Summit 2018 (Taipei, Taiwan)
