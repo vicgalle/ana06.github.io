@@ -18,7 +18,7 @@ We always enjoy that new people join openSUSE community and help them in their f
 
 ## Matheus de Sousa Bernardo
 
-Matheus is a Software Engineering student in the University of Brasília. He will be working in [Trollolo](https://github.com/openSUSE/trollolo), together with his mentors [Ana Martínez](/) (me :stuck_out_tongue_winking_eye:) and [Cornelius Schumacher](http://blog.cornelius-schumacher.de/). Trollolo is a cli-tool which help teams using Trello to organize their work. Matheus’ project includes improving Trollolo’s API and workflow. If you want to know more about him and his project, check his beginning blog post: <https://matheussbernardo.me/gsoc/2018/04/24/hello-internet-gsoc>
+Matheus is a Software Engineering student in the University of Brasília. He will be working in [Trollolo](https://github.com/openSUSE/trollolo), together with his mentors [Ana Martínez](/) (me :stuck_out_tongue_winking_eye:) and [Cornelius Schumacher](http://blog.cornelius-schumacher.de/). Trollolo is a cli-tool which helps teams using Trello to organize their work. Matheus’ project includes improving Trollolo’s API and workflow. If you want to know more about him and his project, check his beginning blog post: <https://matheussbernardo.me/gsoc/2018/04/24/hello-internet-gsoc>
 
  
 ## Xu Liana
