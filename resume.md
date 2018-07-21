@@ -75,6 +75,9 @@ jobs:
 
 
 honors:
+  - date: 2018
+    title: Fellowship to pursue postgraduate studies at North American universities in 2019-2021
+    company: la Caixa Banking Foundation
   - date: 2016
     title: Excellence Grant for high academic performance university students
     company: Community of Madrid
