@@ -13,3 +13,7 @@ Favicon downloaded from https://www.favicon-generator.org
 This site is built with [Jekyll](https://github.com/jekyll/jekyll) and [Bootstrap](https://github.com/twbs/bootstrap).
 
 Just run `jekyll serve`!
+
+### License and contributions
+
+As you can see in [#22](https://github.com/Ana06/ana06.github.io/issues/22) the license is still not clear. Until that is solved no contributions are accepted. If you have any clue how to solve the license dilemma, all help is welcome, please comment in the issue.
