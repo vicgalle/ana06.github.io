@@ -33,6 +33,29 @@ layout: default
   <i class="fab fa-twitter fa-lg"></i>&nbsp;&nbsp; Share on Twitter
 </a>
 
+<hr class="hr-next-top">
+<div class="row" class="next-row">
+  {% if page.previous %}
+  <div class="col-6">
+   <a href="{{ page.previous.url}}">
+     <i class="fas fa-angle-double-left"></i>
+     {{ page.previous.title }}
+   </a>
+  </div>
+  {% endif %}
+
+  {% if page.next %}
+  <div class="col-6 text-right">
+   <a href="{{ page.next.url}}">
+     {{ page.next.title }}
+     <i class="fas fa-angle-double-right"></i>
+   </a>
+  </div>
+  {% endif %}
+</div>
+<hr class="hr-next-bottom">
+
+
 <div id="disqus_thread"></div>
 <script>
   /**

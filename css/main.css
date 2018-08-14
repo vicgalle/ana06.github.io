@@ -252,10 +252,20 @@ h1.title {
       width: 50%; }}
 
 .alert-more-info {
-  margin-top: 40px;
+  margin-top: 20px;
+  margin-bottom: 0px !important;
   color: #585858; }
   .alert-more-info > p {
     margin-bottom: 0rem !important; }
+
+.hr-next-top {
+  font-size: 15px; }
+
+.hr-next-bottom {
+  margin-bottom: 40px; }
+
+.next-row {
+ font-size: 18px; }
 
 /* Resume */
 
