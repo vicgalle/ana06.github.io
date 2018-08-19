@@ -15,7 +15,7 @@
           <a class="nav-link py-3 px-0 px-lg-3 rounded {% if page.url == '/resume/' %} active{% endif %}" href="/resume">My CV</a>
         </li>
         <li class="nav-item mx-0 mx-lg-1">
-          <a class="nav-link py-3 px-0 px-lg-3 rounded {% if page.url == '/blog/' %} active{% endif %}" href="/blog">My blog</a>
+          <a class="nav-link py-3 px-0 px-lg-3 rounded {% if page.url == '/blog/' or page.id %} active{% endif %}" href="/blog">My blog</a>
         </li>
       </ul>
     </div>
