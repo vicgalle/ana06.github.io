@@ -212,7 +212,6 @@ talks:
     conference: openSUSE.Asia Summit 2017 (Tokyo, Japan)
     url: https://events.opensuse.org/conference/summitasia17/program/proposal/1586
     date: "2017-10-22"
-    featured: true
 
   - name: Property testing in Ruby (lightning Talk)
     conference: Euruko 2017 (Budapest, Hungary)
