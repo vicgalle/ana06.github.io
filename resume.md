@@ -168,7 +168,7 @@ my_projects:
 talks:
   - name: Let’s Refactor Some Ruby Code
     conference: EuRuKo 2018 (Vienna, Austria)
-    url: https://euruko2018.org/speakers
+    url: https://youtu.be/jUc8InwoA-E?t=2m54s
     date: "2018-08-24"
     featured: true
     
