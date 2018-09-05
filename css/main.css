@@ -248,8 +248,8 @@ h1.title {
 .image-2{
   margin-bottom: 4px; }
   @media (min-width: 768px) {
-    .image-3{
-      width: 50%; }}
+    .image-2{
+      max-width: 47%; }}
 
 .alert-more-info {
   margin-top: 20px;
