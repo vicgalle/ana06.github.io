@@ -30,7 +30,7 @@ On August 11, we had the openSUSE community day at the SUSE office. We had lunch
 
 ## Talks
 
-On Saturday and Sunday wais when the conference itself took place. Specially the first day it was really crowded (with 1400 people registered! :scream:) Both days and from early in the morning, there were several talks simultaneously, some of them in Chinese, about a wide range of FOSS topics. Appart from the opening and closing, I gave a talk about mentoring and how I started in open source. I am really happy that in the room there were a lot of young people, many of them not involved (yet) in openSUSE. I hope I managed to inspire some of them! :wink: In fact the conference was full of inspiring talks, remarkably:
+On Saturday and Sunday was when the conference itself took place. Specially the first day it was really crowded (with 1400 people registered! :scream:) Both days and from early in the morning, there were several talks simultaneously, some of them in Chinese, about a wide range of FOSS topics. Appart from the opening and closing, I gave a talk about mentoring and how I started in open source. I am really happy that in the room there were a lot of young people, many of them not involved (yet) in openSUSE. I hope I managed to inspire some of them! :wink: In fact the conference was full of inspiring talks, remarkably:
 
 - The keynote by Audrey Tang, Taiwan's Digital Minister, full of quotes to reflect on: _When we see internet of things, let's make it an internet of beings._
 
