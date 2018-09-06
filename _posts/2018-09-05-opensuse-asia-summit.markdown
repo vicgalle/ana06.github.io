@@ -6,7 +6,7 @@ tags:
   - openSUSE
   - open source
 description: "openSUSE.Asia Summit is an annual conference organized since 2014 every time in a different Asian city. Although it is a really successful event, which plays a really important role in spreading openSUSE all around the world, it is not an event everybody in openSUSE knows about. Because of that I would like to tell you about my experience attending the last openSUSE.Asia Summit, which took place on August 10-12 in Taipei, Taiwan."  
-more-info: "This blog post was also published in [news.opensuse.org](https://news.opensuse.org/2018/09/05/ana-opensuse-asia-summit){:target=\"_blank\"}."
+more-info: "This blog post was also published in [news.opensuse.org](https://news.opensuse.org/2018/09/05/opensuse-asia-summit){:target=\"_blank\"}."
 ---
 
 openSUSE.Asia Summit is an annual conference organized since 2014 every time in a different Asian city. Although it is a really successful event, which plays a really important role in spreading openSUSE all around the world, it is not an event everybody in openSUSE knows about. Because of that I would like to tell you about my experience attending the last openSUSE.Asia Summit, which took place on August 10-12 in Taipei, Taiwan.
