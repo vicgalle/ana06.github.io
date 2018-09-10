@@ -184,12 +184,6 @@ talks:
     date: "2018-07-06"
     featured: true
 
-  - name: Annual Discussion with openSUSE Board
-    conference: openSUSE Conference 2018 (Prague, Czech Republic)
-    url: https://events.opensuse.org/conference/oSC18/program/proposal/1939
-    date: "2018-05-26"
-    featured: true
-
   - name: Keep calm and refactor OBS 
     conference: openSUSE Conference 2018 (Prague, Czech Republic)
     url: https://events.opensuse.org/conference/oSC18/program/proposal/1690
